@@ -1,4 +1,4 @@
-#!"c:\users\william le\documents\codingtemple-apr-2021\week5\day5\project\venv\scripts\python.exe"
+#!"c:\users\student\desktop\wk5 project\venv\scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'alembic==1.6.2','console_scripts','alembic'
 __requires__ = 'alembic==1.6.2'
 import re
